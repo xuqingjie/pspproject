@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="一级模块">
+      <UniqueIdentifier>{9573f4d3-c6c3-4aa1-8bcb-890e03b70936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="公用模块">
+      <UniqueIdentifier>{b5eed31f-a5d5-4fb4-9e49-5fb8cbb35030}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块">
+      <UniqueIdentifier>{e5f7960e-c3a9-4022-b8a6-7fcf94beaaa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统">
+      <UniqueIdentifier>{85c4577f-cc03-403e-a561-006a87b630eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面">
+      <UniqueIdentifier>{0b94c9d5-be04-4edc-9318-bdc591bd53d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-系统管理">
+      <UniqueIdentifier>{e3607ef7-4444-407d-b1e9-5907c5dc4da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-系统管理\3-系统管理">
+      <UniqueIdentifier>{d0b6b370-529e-45e4-b7df-8bed8e609f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-系统管理\3-系统管理\返回上一层">
+      <UniqueIdentifier>{5817a761-844e-46d6-a0ae-3764f88c8283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理">
+      <UniqueIdentifier>{5b57246e-0179-4351-857b-1dcffad72045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块">
+      <UniqueIdentifier>{c361f66b-9c00-45bf-b980-6fd7b89761a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块\创建用户">
+      <UniqueIdentifier>{b04e675b-7b6e-4fe4-a5ea-a4aafe635990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块\删除用户">
+      <UniqueIdentifier>{dfd14669-fe3e-4735-8680-07e262715714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户信息">
+      <UniqueIdentifier>{69e599c5-ac68-42a9-bddd-ae56c334b83f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块\用户安全信息">
+      <UniqueIdentifier>{dae818db-b7db-4403-8f9d-e19da0ea7f3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-系统管理\3-系统管理\4-设置存储位置">
+      <UniqueIdentifier>{8beeda56-d5f4-496c-a760-984da8520fdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="主体函数">
+      <UniqueIdentifier>{80f9bb26-6b4f-4082-adfa-d31f4c97b585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-系统管理\3-系统管理\查看存储位置">
+      <UniqueIdentifier>{e1a859c6-db36-456f-b227-b1f680f4b859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户密码">
+      <UniqueIdentifier>{bd15796e-b288-45ec-b8d7-b0d0300f53ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录">
+      <UniqueIdentifier>{4f35a88f-61b1-4c2f-9062-2d0ac752f896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-查询">
+      <UniqueIdentifier>{dd8d9a4e-6b5c-48dc-8d4f-b3d78a896eb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-查询\按时间查找">
+      <UniqueIdentifier>{c3eab847-d398-4b20-8bae-45aa0d518487}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-查询\按id查找">
+      <UniqueIdentifier>{f358bc5e-22fe-4162-8602-0d4357cd4f92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-查询\按活动名称查询">
+      <UniqueIdentifier>{febf017b-37b0-4e5f-8157-8707a7bba127}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-创建">
+      <UniqueIdentifier>{e91443b2-668b-44f2-a7cc-a309226a5367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-修改">
+      <UniqueIdentifier>{f00f3dc4-3231-44b9-8138-e484e5af1b48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-退出登录">
+      <UniqueIdentifier>{4a39de86-24bc-496a-9e73-c64718b5cde2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-项目计划">
+      <UniqueIdentifier>{03e3ff1e-21c0-4b6d-876c-ebb1cf055e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-周总结">
+      <UniqueIdentifier>{eecedcbf-a80a-46c5-81db-b8e481dafc6d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pspmain.cpp">
+      <Filter>主体函数</Filter>
+    </ClCompile>
+    <ClCompile Include="psp_initial.cpp">
+      <Filter>一级模块</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>公用模块</Filter>
+    </ClCompile>
+    <ClCompile Include="login_timerecord.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录</Filter>
+    </ClCompile>
+    <ClCompile Include="login_project.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-项目计划</Filter>
+    </ClCompile>
+    <ClCompile Include="user_man.cpp">
+      <Filter>一级模块\二级模块\2-用户管理</Filter>
+    </ClCompile>
+    <ClCompile Include="sys_man.cpp">
+      <Filter>一级模块\二级模块\2-系统管理</Filter>
+    </ClCompile>
+    <ClCompile Include="cha_sto_loc.cpp">
+      <Filter>一级模块\二级模块\2-系统管理\3-系统管理\4-设置存储位置</Filter>
+    </ClCompile>
+    <ClCompile Include="user_man_create.cpp">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\创建用户</Filter>
+    </ClCompile>
+    <ClCompile Include="user_public.cpp">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_user.cpp">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\删除用户</Filter>
+    </ClCompile>
+    <ClCompile Include="log_in.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统</Filter>
+    </ClCompile>
+    <ClCompile Include="login_weeknote.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-项目计划</Filter>
+    </ClCompile>
+    <ClCompile Include="mainfun.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面</Filter>
+    </ClCompile>
+    <ClCompile Include="change_password.cpp">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户密码</Filter>
+    </ClCompile>
+    <ClCompile Include="change_name.cpp">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户信息</Filter>
+    </ClCompile>
+    <ClCompile Include="main_public.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面</Filter>
+    </ClCompile>
+    <ClCompile Include="create_timerecord.cpp">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-创建</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mainapp.h">
+      <Filter>主体函数</Filter>
+    </ClInclude>
+    <ClInclude Include="psp_initial.h">
+      <Filter>一级模块</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>公用模块</Filter>
+    </ClInclude>
+    <ClInclude Include="user_man.h">
+      <Filter>一级模块\二级模块\2-用户管理</Filter>
+    </ClInclude>
+    <ClInclude Include="sys_man.h">
+      <Filter>一级模块\二级模块\2-系统管理</Filter>
+    </ClInclude>
+    <ClInclude Include="login_timerecord.h">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录</Filter>
+    </ClInclude>
+    <ClInclude Include="login_project.h">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-项目计划</Filter>
+    </ClInclude>
+    <ClInclude Include="cha_sto_loc.h">
+      <Filter>一级模块\二级模块\2-系统管理\3-系统管理\4-设置存储位置</Filter>
+    </ClInclude>
+    <ClInclude Include="user_public.h">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块</Filter>
+    </ClInclude>
+    <ClInclude Include="delete_user.h">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\删除用户</Filter>
+    </ClInclude>
+    <ClInclude Include="log_in.h">
+      <Filter>一级模块\二级模块\2-登陆系统</Filter>
+    </ClInclude>
+    <ClInclude Include="mainfun.h">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面</Filter>
+    </ClInclude>
+    <ClInclude Include="user_man_create.h">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\创建用户</Filter>
+    </ClInclude>
+    <ClInclude Include="change_password.h">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户密码</Filter>
+    </ClInclude>
+    <ClInclude Include="chenge_name.h">
+      <Filter>一级模块\二级模块\2-用户管理\3-用户管理模块\修改用户信息</Filter>
+    </ClInclude>
+    <ClInclude Include="main_public.h">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面</Filter>
+    </ClInclude>
+    <ClInclude Include="create_timerecord.h">
+      <Filter>一级模块\二级模块\2-登陆系统\3-登陆后主界面\4-时间日志记录\5-创建</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
